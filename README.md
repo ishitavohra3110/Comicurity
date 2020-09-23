@@ -1,2 +1,2 @@
-# Comicurity---Information-Security-Comics
+# Comicurity Information-Security-Comics
 POIS project 
