@@ -2,4 +2,4 @@
 POIS project 
 
 ## Important Link
-- Comic creator website : <a href="https://www.storyboardthat.com/storyboard-creator">Link</a>
+- Comic creator tool : <a href="https://www.storyboardthat.com/storyboard-creator">Link</a>
