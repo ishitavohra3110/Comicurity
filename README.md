@@ -7,11 +7,11 @@ POIS project
 | 1. | Kerchkoff | First Day | Completed |
 | 2. | Different attacks | The Cyber Trivia | Completed |
 | 3. | Kevin Mitnick | Social Engineering | Completed |
-| 4. | MAC | Friend or Imposter | Completed |
+| 4. | MAC | Emotion or Logic | Completed |
 | 5. | Digital Signature | Authority and Trust | Completed |
 | 6. | ZK Proof | *TODO | InProgress |
 | 7. | Differential Privacy | Big Data and Privacy | Completed |
-| 8. | SHannon's | *TODO | In Progress |
+| 8. | SHannon's | Strangest Day Ever! | In Progress |
 | 9. | IT Act | Cyber Laws  | Completed |
 | 10. | One Way | *TODO | In Progress |
 
