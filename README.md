@@ -2,18 +2,18 @@
 POIS project 
 
 ### Chapter Names
-| S. No | Reference name | Chapter Name |
-| --- | --- | --- |
-| 1. | Kerchkoff | First Day |
-| 2. | Different attacks | *TODO |
-| 3. | Kevin Mitnick | Social Engineering |
-| 4. | MAC | *TODO |
-| 5. | Digital Signature | *TODO |
-| 6. | ZK Proof | *TODO |
-| 7. | DP | *TODO |
-| 8. | SHannon's | *TODO |
-| 9. | IT Act | Cyber Laws  |
-| 10. | One Way | *TODO |
+| S. No | Reference name | Chapter Name | Progress |
+| --- | --- | --- | --- |
+| 1. | Kerchkoff | First Day | Completed |
+| 2. | Different attacks | The Cyber Trivia | Completed |
+| 3. | Kevin Mitnick | Social Engineering | Completed |
+| 4. | MAC | Friend or Imposter | Completed |
+| 5. | Digital Signature | *TODO | Completed |
+| 6. | ZK Proof | *TODO | InProgress |
+| 7. | DP | *TODO | Completed |
+| 8. | SHannon's | *TODO | In Progress |
+| 9. | IT Act | Cyber Laws  | Completed |
+| 10. | One Way | *TODO | In Progress |
 
 
 
