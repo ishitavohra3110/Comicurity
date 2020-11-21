@@ -4,7 +4,7 @@ POIS project
 ### Chapter Names
 | S. No | Reference name | Chapter Name |
 | --- | --- | --- |
-| 1. | Kerchkoff | *TODO |
+| 1. | Kerchkoff | First Day |
 | 2. | Different attacks | *TODO |
 | 3. | Kevin Mitnick | Social Engineering |
 | 4. | MAC | *TODO |
