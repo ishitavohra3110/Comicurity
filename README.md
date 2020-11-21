@@ -13,7 +13,7 @@ POIS project
 | 7. | Differential Privacy | Piracy or Privacy | Completed |
 | 8. | SHannon's | Strangest Day Ever! | In Progress |
 | 9. | IT Act | Cyber Laws  | Completed |
-| 10. | One Way | *TODO | In Progress |
+| 10. | One Way | Key Take-Away! | In Progress |
 
 
 
