@@ -11,9 +11,9 @@ POIS project
 | 5. | Digital Signature | Authority and Trust | Completed |
 | 6. | ZK Proof | Knowing Nothing, Proves Everything | InProgress |
 | 7. | Differential Privacy | Piracy or Privacy | Completed |
-| 8. | SHannon's | Strangest Day Ever! | In Progress |
+| 8. | Shannon's | Strangest Day Ever! | Completed |
 | 9. | IT Act | Cyber Laws  | Completed |
-| 10. | One Way | Key Take-Away! | Completed |
+| 10. | One-Way | Key Take-Away! | Completed |
 
 
 
