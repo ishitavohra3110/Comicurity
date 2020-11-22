@@ -18,9 +18,9 @@
 | 1. | Kerchkoff | First Day | Samhita, Anurag |
 | 2. | Different attacks | The Cyber Trivia | Vani, Ishita |
 | 3. | Kevin Mitnick | Social Engineering | Anurag, Ishita |
-| 4. | MAC | Emotion or Logic | Ishita, Samhita |
+| 4. | MAC | Emotion or Logic | Vani, Samhita |
 | 5. | Digital Signature | Authority and Trust | Vani, Anurag |
-| 6. | ZK Proof | Knowing Nothing, Proves Everything | Samhita, Vani |
+| 6. | ZK Proof | Knowing Nothing, Proves Everything | Samhita, Ishita |
 | 7. | Differential Privacy | Piracy or Privacy | Samhita |
 | 8. | Shannon's | Strangest Day Ever! | Vani |
 | 9. | IT Act | Cyber Laws  | Anurag |
