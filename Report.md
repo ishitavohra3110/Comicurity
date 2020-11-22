@@ -28,7 +28,10 @@
 
 ## Disclaimer
 
-## GitHub Link: https://github.com/ishitavohra3110/Comicurity
-## Comic Creator Link: https://www.storyboardthat.com/
+## GitHub Link: 
+https://github.com/ishitavohra3110/Comicurity
+
+## Comic Creator Link: 
+https://www.storyboardthat.com/
 
 ## ThankYou Note:
