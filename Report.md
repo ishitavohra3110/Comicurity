@@ -2,10 +2,10 @@
 
 ## Team 13
 ### Members
-<a href="https://github.com/AnuragSahu">Anurag Sahu</a><br> (201812004)
-<a href="https://github.com/ishitavohra3110">Ishita Vohara</a><br> (20171054)
-<a href="https://github.com/KSVSC">Samhita Kanaparthy</a><br> (201812005)
-<a href="https://github.com/vanisancheti">Vani Sancheti</a><br> (20171179)
+<a href="https://github.com/AnuragSahu">Anurag Sahu</a> (2018121004) <br> 
+<a href="https://github.com/ishitavohra3110">Ishita Vohara</a> (20171054)<br> 
+<a href="https://github.com/KSVSC">Samhita Kanaparthy</a> (2018121005) <br> 
+<a href="https://github.com/vanisancheti">Vani Sancheti</a> (20171179)<br> 
 
 ## Objective
  The primary aim behind comicurity is to make the concepts regarding information security reachable to the non-technical audience in a comprehensive way through Comics. 
@@ -35,7 +35,7 @@
 These comics are purely fictional. Unless otherwise indicated, all the names, characters, businesses, places, events and incidents in these comics are either the product of our imagination or used in a fictitious manner. Any resemblance to actual persons, living or dead, or actual events is purely coincidental.
 
 ## Website Link:
-The Comics are hosted as Flipbooks at <a href="https://anuragsahu.github.io/Pdf_flipbook.demo.github.io/index.html"> Comicurity </a>.
+The Comics are hosted at <a href="https://anuragsahu.github.io/Pdf_flipbook.demo.github.io/index.html"> Comicurity </a>.
 
 ## Project Link: 
 <a href="https://github.com/ishitavohra3110/Comicurity"> Github Link </a>
