@@ -13,6 +13,8 @@
  Therefore, we believe that the work we are doing is essential.
 
 ## Project Outline
+* <b>Planned work<b>: As mentioned in the initial project proposal report, we have made comics for the 10 chapters.
+* <b>Extra work<b>: We were really excited about the project, we have also made a website (Comicurity). This allows the user to have better experience while reading the comics.
 
 ## Index
 | S. No | Concept | Chapter Name | Made By |
@@ -33,7 +35,7 @@
 These comics are purely fictional. Unless otherwise indicated, all the names, characters, businesses, places, events and incidents in these comics are either the product of our imagination or used in a fictitious manner. Any resemblance to actual persons, living or dead, or actual events is purely coincidental.
 
 ## Website Link:
-
+https://anuragsahu.github.io/Pdf_flipbook.demo.github.io/index.html
 
 ## GitHub Link: 
 https://github.com/ishitavohra3110/Comicurity
