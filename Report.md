@@ -44,5 +44,5 @@ https://www.storyboardthat.com/
 * Since the account was not premium, proofreading and updating was quite challenging. 
 * Deciding the submission format and finally decided them to host on a website
 
-## Thank You Note:
+## Acknowledgement:
 This project turned out to be very helpful for the whole team in understanding various concepts. For all the concepts that we explored, we did various brainstorming sessions, which would have not been same in traditional curriculum. We are grateful to be a part of this interesting project on Information Security. It was indeed a great experience. We thank the Prof. Kannan Srinathan and TAs for their valuable suggestions and being helpful throughout. 
