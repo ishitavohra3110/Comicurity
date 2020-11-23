@@ -36,7 +36,7 @@ https://github.com/ishitavohra3110/Comicurity
 https://www.storyboardthat.com/
 
 ## Challenges:
-* Story board tool (no premium, not very user friendly, didn't find anybetter tool, couldn't collaborate therefore multiple people have to work on one scene many a time)
+* Tool: Story board (No premium account, Not very user friendly, Didn't find anybetter tool, Couldn't collaborate, Therefore multiple people have to work on one scene many a time)
 * Making the comic such that readers are engaged throught out the text.
 * Thinking the storyline for comics is time taking. Had to spend days together for framing the story.
 * Deciding and exploring the topics was hard too.
