@@ -36,13 +36,13 @@ https://github.com/ishitavohra3110/Comicurity
 https://www.storyboardthat.com/
 
 ## Challenges:
-* Tool: Story board (No premium account, Not very user friendly, Didn't find anybetter tool, Couldn't collaborate, Therefore multiple people have to work on one scene many a time)
-* Making the comic such that readers are engaged throught out the text.
+* Tool: Story board (No premium account, Not very user friendly, Didn't find anybetter tool, Couldn't collaborate, therefore multiple people have to work on same scene multiple times)
+* Making the comic such that readers are engaged throughtout the text.
 * Thinking the storyline for comics is time taking. Had to spend days together for framing the story.
 * Deciding and exploring the topics was hard too.
-* Few chapters needed revisit as they were not up to mark (once we gradually improved in comic making we revisited the previous chapter and updated them).
-* Proofreading
+* Few chapters needed revisit as they were not up to mark (Once we gradually improved in comic making we revisited the previous chapters and updated them).
+* Since the account was not premium, proofreading and updating was quite challenging. 
 * Deciding the submission format and finally decided them to host on a website
 
-## ThankYou Note:
-This project turned out to be very helpful for ous in understanding various concepts. For all the concepts that we explored we did various brainstorming session for it, which would have not been in this way in our normal curriculum. Thank you very much for offering us such an interesting project on Information Security.  
+## Thank You Note:
+This project turned out to be very helpful for the whole team in understanding various concepts. For all the concepts that we explored, we did various brainstorming sessions, which would have not been same in traditional curriculum. We are grateful to be a part of this interesting project on Information Security. It was indeed a great experience. We thank the Prof. Kannan Srinathan and TAs for their valuable suggestions and being helpful throughout. 
