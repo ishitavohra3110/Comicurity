@@ -20,7 +20,7 @@
 | S. No | Concept | Chapter Name | Made By |
 | --- | --- | --- | --- |
 | 1. | Kerchkoff | First Day | Samhita, Anurag |
-| 2. | Different attacks | The Cyber Trivia | Vani, Ishita |
+| 2. | Different attacks | The Cyber Attack | Vani, Ishita |
 | 3. | Kevin Mitnick | Social Engineering | Anurag, Ishita |
 | 4. | MAC | Emotion or Logic | Vani, Samhita |
 | 5. | Digital Signature | Authority and Trust | Vani, Anurag |
