@@ -2,10 +2,10 @@
 
 ## Team 13
 ### Members
-<a href="https://github.com/AnuragSahu">Anurag Sahu</a><br>
-<a href="https://github.com/ishitavohra3110">Ishita Vohara</a><br>
-<a href="https://github.com/KSVSC">Samhita Kanaparthy</a><br>
-<a href="https://github.com/vanisancheti">Vani Sancheti</a><br>
+<a href="https://github.com/AnuragSahu">Anurag Sahu</a><br> (201812004)
+<a href="https://github.com/ishitavohra3110">Ishita Vohara</a><br> (20171054)
+<a href="https://github.com/KSVSC">Samhita Kanaparthy</a><br> (201812005)
+<a href="https://github.com/vanisancheti">Vani Sancheti</a><br> (20171179)
 
 ## Objective
  The primary aim behind comicurity is to make the concepts regarding information security reachable to the non-technical audience in a comprehensive way through Comics. 
