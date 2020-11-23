@@ -13,8 +13,8 @@
  Therefore, we believe that the work we are doing is essential.
 
 ## Project Outline
-* <b>Planned work<b>: As mentioned in the initial project proposal report, we have made comics for the 10 chapters.
-* <b>Extra work<b>: We were really excited about the project, we have also made a website (Comicurity). This allows the user to have better experience while reading the comics.
+* <b>Planned work</b>: As mentioned in the initial project proposal report, we have made comics for the 10 chapters.
+* <b>Extra work</b>: We were really excited about the project, we have also made a website (Comicurity). This allows the user to have better experience while reading the comics.
 
 ## Index
 | S. No | Concept | Chapter Name | Made By |
