@@ -12,6 +12,8 @@
  We see that information security is very much involved in our lives these days. And it is necessary for a common man to have a basic knowledge about this. 
  Therefore, we believe that the work we are doing is essential.
 
+## Project Outline
+
 ## Index
 | S. No | Concept | Chapter Name | Made By |
 | --- | --- | --- | --- |
@@ -26,8 +28,12 @@
 | 9. | IT Act | Cyber Laws  | Anurag |
 | 10. | One-Way | Key Take-Away! | Ishita |
 
+
 ## Disclaimer
 These comics are purely fictional. Unless otherwise indicated, all the names, characters, businesses, places, events and incidents in these comics are either the product of our imagination or used in a fictitious manner. Any resemblance to actual persons, living or dead, or actual events is purely coincidental.
+
+## Website Link:
+
 
 ## GitHub Link: 
 https://github.com/ishitavohra3110/Comicurity
