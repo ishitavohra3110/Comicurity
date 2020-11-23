@@ -20,9 +20,9 @@
 | S. No | Concept | Chapter Name | Made By |
 | --- | --- | --- | --- |
 | 1. | Kerchkoff | First Day | Samhita, Anurag |
-| 2. | Different attacks | The Cyber Attack | Vani, Ishita |
+| 2. | Different attacks | The Cyber Attacks | Vani, Ishita |
 | 3. | Kevin Mitnick | Social Engineering | Anurag, Ishita |
-| 4. | MAC | Emotion or Logic | Vani, Samhita |
+| 4. | MAC | Logic or Emotion | Vani, Samhita |
 | 5. | Digital Signature | Authority and Trust | Vani, Anurag |
 | 6. | ZK Proof | Knowing Nothing, Proves Everything | Samhita, Ishita |
 | 7. | Differential Privacy | Piracy or Privacy | Samhita |
