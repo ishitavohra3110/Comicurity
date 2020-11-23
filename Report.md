@@ -2,11 +2,11 @@
 
 ## Team 13
 ### Members
- * Anurag sahu
- * Samhita 
- * Ishita Vohra
- * Vani Sancheti
- 
+<a href="https://github.com/AnuragSahu">Anurag Sahu</a><br>
+<a href="https://github.com/ishitavohra3110">Ishita Vohara</a><br>
+<a href="https://github.com/KSVSC">Samhita K</a><br>
+<a href="https://github.com/vanisancheti">Vani Sancheti</a><br>
+
 ## Objective
  The primary aim behind comicurity is to make the concepts regarding information security reachable to the non-technical audience in a comprehensive way through Comics. 
  We see that information security is very much involved in our lives these days. And it is necessary for a common man to have a basic knowledge about this. 
@@ -35,13 +35,13 @@
 These comics are purely fictional. Unless otherwise indicated, all the names, characters, businesses, places, events and incidents in these comics are either the product of our imagination or used in a fictitious manner. Any resemblance to actual persons, living or dead, or actual events is purely coincidental.
 
 ## Website Link:
-https://anuragsahu.github.io/Pdf_flipbook.demo.github.io/index.html
+The Comics are hosted as Flipbooks at <a href="https://anuragsahu.github.io/Pdf_flipbook.demo.github.io/index.html"> Comicurity </a>.
 
-## GitHub Link: 
-https://github.com/ishitavohra3110/Comicurity
+## Project Link: 
+<a href="https://github.com/ishitavohra3110/Comicurity"> Github Link </a>
 
 ## Comic Creator Link: 
-https://www.storyboardthat.com/
+<a href="https://www.storyboardthat.com/"> Storyboard Creator </a>
 
 ## Challenges:
 * Tool: Story board (No premium account, Not very user friendly, Didn't find anybetter tool, Couldn't collaborate, therefore multiple people have to work on same scene multiple times)
