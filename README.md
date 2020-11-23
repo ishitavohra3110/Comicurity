@@ -3,7 +3,7 @@
 ## Team 13
 ### Members
 <a href="https://github.com/AnuragSahu">Anurag Sahu</a> (2018121004) <br> 
-<a href="https://github.com/ishitavohra3110">Ishita Vohara</a> (20171054)<br> 
+<a href="https://github.com/ishitavohra3110">Ishita Vohra</a> (20171054)<br> 
 <a href="https://github.com/KSVSC">Samhita Kanaparthy</a> (2018121005) <br> 
 <a href="https://github.com/vanisancheti">Vani Sancheti</a> (20171179)<br> 
 
