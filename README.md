@@ -37,8 +37,5 @@ These comics are purely fictional. Unless otherwise indicated, all the names, ch
 ## Website Link:
 The Comics are hosted at <a href="https://anuragsahu.github.io/Pdf_flipbook.demo.github.io/index.html"> Comicurity </a>.
 
-## Project Link: 
-<a href="https://github.com/ishitavohra3110/Comicurity"> Github Link </a>
-
 ## Comic Creator Link: 
-<a href="https://www.storyboardthat.com/"> Storyboard Creator </a>
+Tool used for creating comics: <a href="https://www.storyboardthat.com/"> Storyboard Creator </a>
