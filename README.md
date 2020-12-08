@@ -42,22 +42,3 @@ The Comics are hosted at <a href="https://anuragsahu.github.io/Pdf_flipbook.demo
 
 ## Comic Creator Link: 
 <a href="https://www.storyboardthat.com/"> Storyboard Creator </a>
-
-## Challenges:
-* Tool: Storyboard
-  * No premium account
-  * Not very user friendly
-  * Didn't find any better tool
-  * Couldn't collaborate, therefore multiple people have to work on the same scene multiple times.
-* Making the comics such that readers are engaged throughout the text was a challenging task.
-* Thinking the storyline for comics was time taking. Had to spend days together for framing the story.
-* Deciding and exploring the topics was hard too.
-* Few chapters needed to revisit as they were not up to mark. Once we gradually improved in the comic making we revisited the previous chapters and updated them.
-* Since the account was not premium, every time proofreading was equivalent to remaking the various scenes of the comic.
-* Deciding the submission format was difficult
-* We found many interesting ways to present the comics, ex: flipbook. But since these required a premium account and was not permanent we had to explore more ways. 
-* Since we wanted to host our comics online for a life-time, we finally decided to make a website on our own and host it there.
-
-
-## Acknowledgement:
-This project turned out to be very helpful for the whole team in understanding various concepts. For all the concepts that we explored, we did various brainstorming sessions, which would have not been same in traditional curriculum. We are grateful to be a part of this interesting project on Information Security. It was indeed a great experience. We thank the Prof. Kannan Srinathan and TAs for their valuable suggestions and being helpful throughout. 
